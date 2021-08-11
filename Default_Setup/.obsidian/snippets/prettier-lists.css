@@ -1,0 +1,52 @@
+.markdown-preview-view .cm-hmd-list-indent .cm-tab, ul ul { 
+ position: relative; 
+}
+
+.markdown-preview-view .cm-hmd-list-indent .cm-tab::before, ul ul::before {
+ content:'';
+ border-left: 1px solid #51002b;
+ position: absolute;
+ transform: translateX(-12px);
+}
+
+.markdown-preview-view .cm-hmd-list-indent .cm-tab::before { 
+ left: 0; top: -5px; bottom: -4px; 
+}
+
+
+.markdown-preview-view ul ul::before {
+ left: -11px; top: 0; bottom: 0; 
+}
+
+.nav-folder-children > .nav-file,
+.nav-folder-children > .nav-folder {
+  border-left: 1px solid #51002b;
+}
+
+.mod-root > .nav-folder-children > .nav-file,
+.mod-root > .nav-folder-children > .nav-folder {
+  border-left: none;
+}
+
+ul li:not(.task-list-item)::marker{
+  content: "->";
+  font-size: 12px;
+  color: #ff0088;
+}
+
+li:not(.task-list-item){
+  padding-bottom: .2em;
+}
+
+ol li:not(.task-list-item)::marker{
+  font-size: 12px;
+  color: #ff0088;
+}
+
+.task-list-item-checkbox{
+  transform: translate(1px, -4px);
+}
+
+.task-list-item{
+  transform: translateX(15px);
+}

@@ -1,0 +1,9 @@
+{
+  "baseFontSize": 21,
+  "enabledCssSnippets": [
+    "prettier-lists",
+    "h-colors"
+  ],
+  "cssTheme": "Hipstersmoothie",
+  "translucency": true
+}

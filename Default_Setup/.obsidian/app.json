@@ -1,0 +1,13 @@
+{
+  "trashOption": "local",
+  "foldIndent": false,
+  "foldHeading": false,
+  "readableLineLength": true,
+  "showLineNumber": false,
+  "useTab": false,
+  "attachmentFolderPath": "_Attachments",
+  "promptDelete": false,
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview"
+}
