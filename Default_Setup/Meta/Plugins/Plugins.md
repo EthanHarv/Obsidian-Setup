@@ -18,6 +18,7 @@ Lots! Make sure you have safe mode disabled.
 - Ignorable
     - Better Word Count
     - Editor Syntax Highlight
+    - Ozan's Image in Editor Plugin
     - Emoji Toolbar (`Ctrl+J`)
 - 100% Learnable in under like two minutes:
     - [[Calendar]]
