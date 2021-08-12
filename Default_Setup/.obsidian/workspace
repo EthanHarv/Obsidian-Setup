@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Start Here!.md",
+            "file": "Meta/Themes and Custom CSS.md",
             "mode": "preview"
           }
         }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Start Here!.md",
+                "file": "Meta/Themes and Custom CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,8 @@
   },
   "active": "3e49fa6d83b7bf8c",
   "lastOpenFiles": [
-    "Start Here!.md",
-    "Meta/Plugins/Plugins.md"
+    "Meta/Themes and Custom CSS.md",
+    "Meta/Plugins/Plugins.md",
+    "Start Here!.md"
   ]
 }
