@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Meta/Themes and Custom CSS.md",
+            "file": "Meta/Folder Structure.md",
             "mode": "preview"
           }
         }
@@ -78,6 +78,14 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "ebbc775d3a978f8a",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
         ]
       },
@@ -92,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta/Themes and Custom CSS.md",
+                "file": "Meta/Folder Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,8 +131,11 @@
   },
   "active": "3e49fa6d83b7bf8c",
   "lastOpenFiles": [
-    "Meta/Themes and Custom CSS.md",
+    "Meta/Folder Structure.md",
+    "Start Here!.md",
+    "Meta/Plugins/Spaced Reptition.md",
+    "Meta/Plugins/Natural Language Dates.md",
     "Meta/Plugins/Plugins.md",
-    "Start Here!.md"
+    "Meta/Themes and Custom CSS.md"
   ]
 }

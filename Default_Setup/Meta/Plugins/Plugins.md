@@ -32,3 +32,4 @@ Lots! Make sure you have safe mode disabled.
     - [[Templater]]
 - Gonna have to spend some time with
     - [[Dataview]]
+    - [[Spaced Reptition]]

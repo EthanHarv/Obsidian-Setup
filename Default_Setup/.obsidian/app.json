@@ -7,7 +7,7 @@
   "useTab": false,
   "attachmentFolderPath": "_Attachments",
   "promptDelete": false,
-  "newFileLocation": "current",
+  "newFileLocation": "root",
   "alwaysUpdateLinks": true,
   "defaultViewMode": "preview"
 }
