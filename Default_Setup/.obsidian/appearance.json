@@ -1,10 +1,16 @@
 {
   "baseFontSize": 21,
   "enabledCssSnippets": [
+    "monspace",
+    "test_snippet",
+    "relationship_lines",
     "prettier-lists",
+    "better-titles",
+    "align-h1-center",
     "h-colors",
+    "hipster-fake-translucent",
     "oz-noselect"
   ],
   "cssTheme": "Hipstersmoothie",
-  "translucency": true
+  "translucency": false
 }

@@ -8,17 +8,13 @@ tags: Daily
 
 ---
 
-# Plans
+## Plans
 
 
 
-# Thoughts
+## Thoughts
 
 
 
-# Things that Happened
-
-
-
-# Scratchpad
+## Scratchpad
 

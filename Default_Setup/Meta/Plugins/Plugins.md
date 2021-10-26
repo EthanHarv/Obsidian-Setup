@@ -14,13 +14,14 @@ I have a ton of these enabled, but the most important ones to take note of are:
 
 ## Community
 
-Lots! Make sure you have safe mode disabled.
+Lots!
 - Ignorable
     - Better Word Count
     - Editor Syntax Highlight
-    - Ozan's Image in Editor Plugin ^7252bc
     - Emoji Toolbar (`Ctrl+J`)
-- 100% Learnable in under like two minutes:
+    - Ozan's Image in Editor Plugin
+    - Paste URL into Selection
+- 100% understandable in under like two minutes:
     - [[Calendar]]
     - [[Natural Language Dates]]
     - [[Andy's Mode]]
@@ -30,6 +31,7 @@ Lots! Make sure you have safe mode disabled.
     - [[Admonitions]]
     - [[Advanced Tables]]
     - [[Templater]]
-- Gonna have to spend some time with
+    - [[Excalidraw]]
+    - [[Spaced Repetition]]
+- Gonna have to spend some time with, but you don't need to learn all at once.
     - [[Dataview]]
-    - [[Spaced Reptition]]

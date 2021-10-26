@@ -32,4 +32,13 @@ tags: meta
 ### Closing Panels, Going Back
 
 - You can close the current main panel with `Ctrl+W`
-- You can go back a page with `Ctrl+Alt+LEFT` (`RIGHT` goes forwards again) 
+- You can go back a page with `Ctrl+Alt+LEFTARROW` (`RIGHTARROW` goes forwards again) 
+
+### Other Misc Keybinds (Custom)
+
+- Emoji Picker: `Mod+J` (mod is `ctrl`/`cmd`)
+- Excalidraw:
+    - Open a new document in the current pane, and embed it into the current note: `Mod+Alt+Shift+E`
+        - (Also useful to remember `Ctrl+Alt+LEFTARROW` here, to get back to your note)
+    - Insert latex symbol (into drawing): `Mod+L`
+- Templater: Jump to next cursor location: `Alt+Shift+E`

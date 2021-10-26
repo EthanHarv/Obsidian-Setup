@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "3e49fa6d83b7bf8c",
+        "id": "d1ec2393bf844f33",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "theme",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,38 +52,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 174
+    "width": 179
   },
   "right": {
     "id": "80662d458215fa45",
     "type": "split",
     "children": [
       {
-        "id": "d1fb00baa9c6a797",
+        "id": "73711b3d8a5cf15c",
         "type": "tabs",
-        "dimension": 40.232108317214696,
+        "dimension": 40.81237911025145,
         "children": [
           {
-            "id": "72624a898b7d38ed",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "183285cd3835dc86",
+            "id": "f1acd4ca3b65403b",
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "ebbc775d3a978f8a",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
               "state": {}
             }
           }
@@ -92,7 +76,7 @@
       {
         "id": "daf7e95cafd56484",
         "type": "tabs",
-        "dimension": 59.767891682785304,
+        "dimension": 59.18762088974855,
         "children": [
           {
             "id": "d87a0fe1c1700fa1",
@@ -121,21 +105,32 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "d412a72ad8c1e200",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 264
   },
-  "active": "3e49fa6d83b7bf8c",
+  "active": "d1ec2393bf844f33",
   "lastOpenFiles": [
     "Meta/Folder Structure.md",
     "Start Here!.md",
-    "Meta/Plugins/Spaced Reptition.md",
-    "Meta/Plugins/Natural Language Dates.md",
+    "Meta/Why Obsidian.md",
+    "_Attachments/Excalidraw_2021-10-25 21.07.29.excalidraw.md",
+    "Meta/Tricks, Keybinds, and Extras.md",
+    "Meta/Plugins/Daily Notes.md",
+    "Meta/Themes and Custom CSS.md",
     "Meta/Plugins/Plugins.md",
-    "Meta/Themes and Custom CSS.md"
+    "Meta/Plugins/Andy's Mode.md",
+    "Meta/Plugins/Spaced Repetition.md"
   ]
 }

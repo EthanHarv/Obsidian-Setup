@@ -11,7 +11,7 @@ tags: meta
 
 For a long time, I kept notes in simple text files in vscode.
 
-![[vscode.png]]
+![[Pasted image 20210810223846.png]]
 
 It was terrible.
 
